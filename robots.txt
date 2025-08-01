@@ -2,6 +2,5 @@
 User-agent: *
 Allow: /
 
-# Informar a localização do Sitemap para os robôs.
-# Lembre-se de substituir 'craftpiscinas.store' pelo seu domínio final.
+# Informar a localização segura (HTTPS) do Sitemap para os robôs.
 Sitemap: https://craftpiscinas.store/sitemap.xml
