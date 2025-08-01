@@ -1,0 +1,7 @@
+# Permitir que todos os robôs de busca acessem todo o conteúdo do site.
+User-agent: *
+Allow: /
+
+# Informar a localização do Sitemap para os robôs.
+# Lembre-se de substituir 'craftpiscinas.store' pelo seu domínio final.
+Sitemap: https://craftpiscinas.store/sitemap.xml
